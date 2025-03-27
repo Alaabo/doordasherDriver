@@ -1,0 +1,60 @@
+{
+    "appName" : "JAWED DELIVERY",
+    "Driver Panel" : "Driver Panel",
+    "login" : "Login",
+    "Home" : "Home",
+    "Profile" : "Profile",
+    "Package pickup point" : "Package pickup point",
+    "you are here" : "you are here",
+    "welcomeBack" :"Welcome Back",
+    "close" : "Close" , 
+    "ShowMore" : "Show More" , 
+    "PackageDetails" : "Package Details" ,
+    "price" : "price" , 
+    "currency"  :"DZD" , 
+    "LocationDetails" : "Location Details" ,
+    "Pickup Location" : "Pickup Location" ,
+    "Destination" : "Destination" ,
+    "request": {
+        "status": {
+          "pending": "pending",
+          "accepted": "accepted",
+          "onRoad": "on road",
+          "delivered": "delivered"
+        }
+    },
+    "Request Details" :  "Request Details",
+    "Delete" : "Delete" ,
+    "Loading request details..." : "Loading request details...",
+    "Request not found" : "Request not found" ,
+    "Go Back" : "Go Back" ,
+    "Package delivery point" : "Package delivery point",
+    "Request ID" : "Request ID" , 
+    "MarkAsComplete" :"delivered" ,
+    "No details provided" : "No details provided",
+    "Delivery Information" : "Delivery Information",
+    "Accept Request" : "Accept Request",
+    "My Active Deliveries" : "My Active Deliveries",
+    "user": "Client" ,
+    "deliveryHistory" : "delivery History" , 
+    "TransactionsHistory" : "Transactions History" , 
+    "switchLuanguage" : "switch Language" ,
+    "Logout" : "Logout",
+    "transaction": {
+    "status": {
+      "completed": "completed",
+      "pending": "pending",
+      "failed": "failed"
+    },
+    "amount": "amount",
+    "date": "date",
+    "request": "Transaction",
+    "from": "from",
+    "to": "to",
+    "history": "Transaction History",
+    "noTransactions": "no transactions",
+    "driver": "driver",
+    "user": "user"
+  }
+
+}

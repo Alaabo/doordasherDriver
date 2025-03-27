@@ -1,0 +1,59 @@
+{
+    "appName": "DJAWED DELIVERY",
+    "Driver Panel": "لوحة السائق",
+    "login": "تسجيل الدخول",
+    "Home": "الرئيسية",
+    "Profile": "الملف الشخصي",
+    "Package pickup point": "نقطة استلام الطرد",
+    "you are here": "أنت هنا",
+    "welcomeBack": "مرحبًا بعودتك",
+    "close": "إغلاق",
+    "ShowMore": "عرض المزيد",
+    "PackageDetails": "تفاصيل الطرد",
+    "price": "السعر",
+    "currency": "دج",
+    "LocationDetails": "تفاصيل الموقع",
+    "Pickup Location": "موقع الاستلام",
+    "Destination": "الوجهة",
+    "request": {
+        "status": {
+            "pending": "قيد الانتظار",
+            "accepted": "مقبول",
+            "onRoad": "في الطريق",
+            "delivered": "تم التوصيل"
+        }
+    },
+    "Request Details": "تفاصيل الطلب",
+    "Delete": "حذف",
+    "Loading request details...": "جارٍ تحميل تفاصيل الطلب...",
+    "Request not found": "الطلب غير موجود",
+    "Go Back": "العودة",
+    "Package delivery point": "نقطة تسليم الطرد",
+    "Request ID": "معرّف الطلب",
+    "MarkAsComplete": "تم التوصيل",
+    "No details provided": "لم يتم تقديم تفاصيل",
+    "Delivery Information": "معلومات التوصيل",
+    "Accept Request": "قبول الطلب",
+    "My Active Deliveries": "توصيلاتي النشطة",
+    "user": "العميل",
+    "deliveryHistory": "سجل التوصيلات",
+    "TransactionsHistory": "سجل المعاملات",
+    "switchLuanguage": "تغيير اللغة",
+    "Logout": "تسجيل الخروج",
+    "transaction": {
+        "status": {
+            "completed": "مكتمل",
+            "pending": "قيد الانتظار",
+            "failed": "فشل"
+        },
+        "amount": "المبلغ",
+        "date": "التاريخ",
+        "request": "المعاملة",
+        "from": "من",
+        "to": "إلى",
+        "history": "سجل المعاملات",
+        "noTransactions": "لا توجد معاملات",
+        "driver": "السائق",
+        "user": "المستخدم"
+    }
+}
