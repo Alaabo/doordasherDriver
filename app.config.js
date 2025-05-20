@@ -1,12 +1,12 @@
 export default ({ config }) => ({
     expo: {
-        name: "doordasherdriver",
-        slug: "doordasherdriver",
+        name: "Djawaed Driver",
+        slug: "djawaddeliverydriver",
         owner: "alaabourega",
         version: "1.0.0",
         orientation: "portrait",
         icon: "./assets/images/logo.png",
-        scheme: "doordasherdriver",
+        scheme: "djawaddeliverydriver",
         userInterfaceStyle: "automatic",
         newArchEnabled: true,
         developmentClient: {
@@ -14,7 +14,7 @@ export default ({ config }) => ({
         },
         extra: {
             eas: {
-                projectId: '5cb60471-f6cd-4df0-bbe6-6aa7fee2457f'
+                projectId: '90c122c0-3e4a-4ce7-a70b-32b27fe170aa'
             },
             cli: {
                 appVersionSource: "remote" // This addresses the first warning
@@ -31,7 +31,7 @@ export default ({ config }) => ({
             versionCode: 1,
             adaptiveIcon: {
                 foregroundImage: "./assets/images/logo.png",
-                backgroundColor: "#B5C8FF",
+                backgroundColor: "#4CAF50",
                 googleServicesFile: false,
             },
             config: {
@@ -54,6 +54,7 @@ export default ({ config }) => ({
             favicon: "./assets/images/logo.png",
         },
         plugins: [
+             "expo-localization",
             "expo-router",
             [
                 "expo-splash-screen",
